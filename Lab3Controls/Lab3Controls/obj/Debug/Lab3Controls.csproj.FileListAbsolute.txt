@@ -1,0 +1,11 @@
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\bin\Debug\Lab3Controls.exe.config
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\bin\Debug\Lab3Controls.exe
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\bin\Debug\Lab3Controls.pdb
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.csproj.AssemblyReference.cache
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.Form1.resources
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.Properties.Resources.resources
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.csproj.GenerateResource.cache
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.csproj.CoreCompileInputs.cache
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.exe
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.pdb
+C:\Users\kukel\OneDrive\Desktop\NetFrameworksm2\Lab3Controls\Lab3Controls\obj\Debug\Lab3Controls.Form2.resources
